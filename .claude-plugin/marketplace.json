@@ -1,0 +1,15 @@
+{
+  "name": "henry-mods",
+  "owner": {
+    "name": "Henry Chua"
+  },
+  "plugins": [
+    {
+      "name": "cache-warm",
+      "source": "./cache-warm",
+      "description": "Shows above the prompt how long the cache stays warm, what each message costs on your Claude plan, and one habit that saves usage",
+      "version": "0.2.0"
+    }
+  ],
+  "description": "Claude Code mods by Henry Chua"
+}

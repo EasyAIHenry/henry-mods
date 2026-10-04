@@ -1,0 +1,4 @@
+{
+  "description": "The cache-warm hooks module",
+  "modules": ["./register.tsx"]
+}

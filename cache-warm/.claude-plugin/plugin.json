@@ -1,0 +1,7 @@
+{
+  "name": "cache-warm",
+  "version": "0.2.0",
+  "description": "Shows above the prompt how long the cache stays warm, what each message costs on your Claude plan, and one habit that saves usage",
+  "author": { "name": "Henry Chua" },
+  "types": "./types/index.d.ts"
+}
